@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="q0422_descr">說明:</string>
+    <string name="q0422_t001">選擇:</string>
+    <string name="q0422_name">名稱:</string>
+    <string name="q0422_url">網址:</string>
+    <string name="q0422_img">圖片</string>
+    <string name="q0422_opendata">匯入opendata</string>
+    <string name="q0422_title">請稍等</string>
+    <string name="q0422_message">執行中...</string>
+    <string name="q0422_ncount">共計:</string>
+    <string name="q0422_loading">數據載入中......</string>
+    <string name="q0422_menu_top">跳到首筆</string>
+    <string name="q0422_menu_end">跳到尾筆</string>
+    <string name="q0422_loadover">重新載入完成</string>
+    <string name="q0422_menu_next">+100</string>
+    <string name="q0422_menu_back">-100</string>
+    <string name="q0422_menu_load">下載數據資料</string>
+    <string name="q0422_b001">前往網站</string>
+    <string name="q0422_b002">電話聯絡</string>
+    <string name="q0422_b003">地圖搜尋</string>
+    <string name="q0422_b004">加入願望清單</string>
+<!--myAlertDialog-->
+    <string name="q0422_dialog_title">種苗公司、育苗場名冊</string>
+    <string name="q0422_dialog_b001">下載數據資料</string>
+    <string name="q0422_dialog_t001">啟動:</string>
+    <string name="q0422_dialog_positive">是</string>
+    <string name="q0422_dialog_negative">否</string>
+    <string name="q0422_dialog_neutral">取消</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/quiz_game_02ver" />
+            <option value="$PROJECT_DIR$/quiz_game_03ver" />
+            <option value="$PROJECT_DIR$/quiz_game_04ver" />
+            <option value="$PROJECT_DIR$/quiz_game_05ver" />
+            <option value="$PROJECT_DIR$/quiz_game_06ver" />
+            <option value="$PROJECT_DIR$/quiz_game_07ver" />
+            <option value="$PROJECT_DIR$/quiz_game_a05ver" />
+            <option value="$PROJECT_DIR$/test_google_map" />
+            <option value="$PROJECT_DIR$/test_weather_api" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

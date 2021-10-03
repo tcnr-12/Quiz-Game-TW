@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/turquoise_green"
+    android:padding="@dimen/p010">
+
+    <Button
+        android:id="@+id/q0304_b001"
+        android:layout_width="@dimen/p150"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="@dimen/p100"
+        android:layout_marginTop="20dp"
+        android:background="@color/green_softness"
+        android:text="@string/q0304_b001" />
+
+    <Button
+        android:id="@+id/q0304_b002"
+        android:layout_width="@dimen/p150"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/q0304_b001"
+        android:layout_alignEnd="@+id/q0304_b001"
+        android:layout_marginTop="@dimen/p020"
+        android:layout_marginEnd="@dimen/p000"
+        android:background="@color/green_softness"
+        android:text="@string/q0304_b002" />
+
+    <Button
+        android:id="@+id/q0304_b003"
+        android:layout_width="@dimen/p150"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/q0304_b002"
+        android:layout_alignStart="@+id/q0304_b002"
+        android:layout_marginStart="@dimen/p000"
+        android:layout_marginTop="@dimen/p020"
+        android:background="@color/green_softness"
+        android:text="@string/q0304_b003" />
+</RelativeLayout>

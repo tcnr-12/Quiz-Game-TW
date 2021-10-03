@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <set xmlns:android="http://schemas.android.com/apk/res/android">
+        <translate
+            android:interpolator="@android:anim/bounce_interpolator"
+            android:startOffset="0"
+            android:fromXDelta="0"
+            android:toXDelta="0"
+            android:fromYDelta="-100%p"
+            android:toYDelta="0%p"
+            android:duration="5000"
+            android:fillAfter="true"
+            />
+        <!-- android:repeatCount="100"-->
+
+
+        <!-- 第二個效果的 fromYDelta 會限制 第一個效果的 toYDelta，fromYDelta = toYDelta-->
+        <!-- 第二個效果 要在第一個效果未結束前 加入-->
+        <!-- 時間差不好調整-->
+        <translate
+            android:interpolator="@android:anim/decelerate_interpolator"
+            android:startOffset="4000"
+            android:fromXDelta="0"
+            android:toXDelta="0"
+            android:fromYDelta="-5%p"
+            android:toYDelta="0%p"
+            android:duration="3000"
+            android:fillAfter="true"
+            />
+
+        <!-- <translate-->
+        <!-- android:interpolator="@android:anim/decelerate_interpolator"-->
+        <!-- android:startOffset="4000"-->
+        <!-- android:fromXDelta="0"-->
+        <!-- android:toXDelta="0"-->
+        <!-- android:fromYDelta="-5%p"-->
+        <!-- android:toYDelta="0%p"-->
+        <!-- android:duration="3000"-->
+        <!-- android:fillAfter="true"-->
+        <!-- />-->
+
+    </set>

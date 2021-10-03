@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    tools:context=".Q0411">
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="466dp"
+        android:layout_height="572dp"
+        android:background="@drawable/taiwan_map"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.495">
+
+        <Button
+            android:id="@+id/q0411_b001"
+            android:layout_width="60dp"
+            android:layout_height="25dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="241dp"
+            android:layout_marginTop="37dp"
+            android:background="@color/transparent"
+            android:text="@string/q0411_t004"
+            android:textSize="20sp"
+            tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+        <Button
+            android:id="@+id/q0411_b002"
+            android:layout_width="60dp"
+            android:layout_height="25dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="68dp"
+            android:layout_marginEnd="184dp"
+            android:background="@color/transparent"
+            android:text="@string/q0411_t005"
+            android:textSize="20sp"
+            tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+        <Button
+            android:id="@+id/q0411_b003"
+            android:layout_width="60dp"
+            android:layout_height="25dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="37dp"
+            android:layout_marginEnd="229dp"
+            android:background="@color/transparent"
+            android:text="@string/q0411_t006"
+            android:textSize="20sp"
+            tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+        <Button
+            android:id="@+id/q0411_b004"
+            android:layout_width="60dp"
+            android:layout_height="25dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="117dp"
+            android:layout_marginEnd="162dp"
+            android:background="@color/transparent"
+            android:text="@string/q0411_t007"
+            android:textSize="20sp"
+            tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+        <Button
+            android:id="@+id/q0411_b005"
+            android:layout_width="60dp"
+            android:layout_height="25dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="151dp"
+            android:layout_marginTop="68dp"
+            android:background="@color/transparent"
+            android:text="@string/q0411_t008"
+            android:textSize="20sp"
+            tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+        <Button
+            android:id="@+id/q0411_b006"
+            android:layout_width="60dp"
+            android:layout_height="25dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="178dp"
+            android:layout_marginEnd="304dp"
+            android:background="@color/transparent"
+            android:text="@string/q0411_t009"
+            android:textSize="20sp"
+            tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+        <Button
+            android:id="@+id/q0411_b007"
+            android:layout_width="60dp"
+            android:layout_height="25dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="91dp"
+            android:layout_marginTop="147dp"
+            android:background="@color/transparent"
+            android:text="@string/q0411_t010"
+            android:textSize="20sp"
+            tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+        <Button
+            android:id="@+id/q0411_b008"
+            android:layout_width="60dp"
+            android:layout_height="25dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="149dp"
+            android:layout_marginEnd="250dp"
+            android:background="@color/transparent"
+            android:text="@string/q0411_t011"
+            android:textColor="@color/Orange"
+            android:textSize="20sp"
+            tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck,TextContrastCheck" />
+
+        <Button
+            android:id="@+id/q0411_b009"
+            android:layout_width="60dp"
+            android:layout_height="25dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="237dp"
+            android:layout_marginEnd="275dp"
+            android:background="@color/transparent"
+            android:text="@string/q0411_t012"
+            android:textSize="20sp"
+            tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck" />
+
+        <Button
+            android:id="@+id/q0411_b010"
+            android:layout_width="60dp"
+            android:layout_height="25dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="68dp"
+            android:layout_marginBottom="262dp"
+            android:background="@color/transparent"
+            android:text="@string/q0411_t013"
+            android:textSize="20sp"
+            tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+        <Button
+            android:id="@+id/q0411_b011"
+            android:layout_width="60dp"
+            android:layout_height="25dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="357dp"
+            android:layout_marginBottom="150dp"
+            android:background="@color/transparent"
+            android:text="@string/q0411_t014"
+            android:textColor="@color/Teal"
+            android:textSize="20sp"
+            tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+        <Button
+            android:id="@+id/q0411_b012"
+            android:layout_width="60dp"
+            android:layout_height="25dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="75dp"
+            android:layout_marginBottom="183dp"
+            android:background="@color/transparent"
+            android:text="@string/q0411_t015"
+            android:textSize="20sp"
+            tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+        <Button
+            android:id="@+id/q0411_b013"
+            android:layout_width="60dp"
+            android:layout_height="25dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="166dp"
+            android:layout_marginBottom="163dp"
+            android:background="@color/transparent"
+            android:text="@string/q0411_t016"
+            android:textSize="20sp"
+            tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+        <Button
+            android:id="@+id/q0411_b014"
+            android:layout_width="60dp"
+            android:layout_height="25dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="32dp"
+            android:layout_marginBottom="339dp"
+            android:background="@color/transparent"
+            android:text="@string/q0411_t021"
+            android:textColor="@color/Teal"
+            android:textSize="20sp"
+            tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+        <Button
+            android:id="@+id/q0411_b015"
+            android:layout_width="60dp"
+            android:layout_height="25dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="94dp"
+            android:layout_marginBottom="339dp"
+            android:background="@color/transparent"
+            android:text="@string/q0411_t022"
+            android:textColor="@color/Teal"
+            android:textSize="20sp"
+            tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+        <Button
+            android:id="@+id/q0411_b016"
+            android:layout_width="60dp"
+            android:layout_height="25dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="54dp"
+            android:layout_marginBottom="295dp"
+            android:background="@color/transparent"
+            android:text="@string/q0411_t023"
+            android:textColor="@color/Teal"
+            android:textSize="20sp"
+            tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+        <Button
+            android:id="@+id/q0411_b017"
+            android:layout_width="60dp"
+            android:layout_height="25dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="93dp"
+            android:layout_marginBottom="122dp"
+            android:background="@color/transparent"
+            android:text="@string/q0411_t024"
+            android:textColor="@color/Teal"
+            android:textSize="20sp"
+            tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+        <Button
+            android:id="@+id/q0411_b020"
+            android:layout_width="60dp"
+            android:layout_height="25dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="195dp"
+            android:layout_marginBottom="266dp"
+            android:background="@color/transparent"
+            android:text="@string/q0411_t025"
+            android:textSize="20sp"
+            tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+        <Button
+            android:id="@+id/q0411_b021"
+            android:layout_width="60dp"
+            android:layout_height="25dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="40dp"
+            android:layout_marginBottom="370dp"
+            android:background="@color/transparent"
+            android:text="@string/q0411_t026"
+            android:textSize="20sp"
+            tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+        <Button
+            android:id="@+id/q0411_b022"
+            android:layout_width="60dp"
+            android:layout_height="25dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="45dp"
+            android:layout_marginBottom="215dp"
+            android:background="@color/transparent"
+            android:text="@string/q0411_t027"
+            android:textColor="@color/Orange"
+            android:textSize="20sp"
+            tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck,TextContrastCheck" />
+
+        <Button
+            android:id="@+id/q0411_b023"
+            android:layout_width="80dp"
+            android:layout_height="30dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="56dp"
+            android:layout_marginTop="23dp"
+            android:background="@color/transparent"
+            android:text="@string/q0411_b021"
+            android:textColor="@color/Blue"
+            android:textSize="20sp"
+            tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck,TextContrastCheck" />
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/q0411_b018"
+        android:layout_width="130dp"
+        android:layout_height="50dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:background="@color/green_softness"
+        android:text="@string/q0411_b018"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <EditText
+        android:id="@+id/q0411_a001"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:hint="@string/q0411_a001"
+        android:importantForAutofill="no"
+        android:inputType="text"
+        app:layout_constraintBottom_toTopOf="@+id/q0411_b018"
+        app:layout_constraintEnd_toEndOf="@+id/q0411_b018"
+        tools:ignore="TouchTargetSizeCheck,TextContrastCheck" />
+
+    <Button
+        android:id="@+id/q0411_b019"
+        android:layout_width="130dp"
+        android:layout_height="50dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:background="@color/green_softness"
+        android:text="@string/q0411_t020"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/q0411_b018" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

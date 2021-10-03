@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="q0311_t001">遊戲規則: \n
+    遊戲一共十題，得分規則:\n
+        基礎100分\n
+        連續答題時會得到獎勵加成\n
+        2 Hits :1.1倍 \n
+        3 Hits :1.2倍 \n
+        4 Hits :15倍 \n
+        在初級難度每題秒數為20秒。
+        而從中級難度以上開始，當連續答對題數時，答題秒數會變化:\n
+        2 Hits :18秒 \n
+        3 Hits :16秒 \n
+        4 Hits :15秒 \n
+        在高級難度中，連續答錯三題會直接結束遊戲。\n
+    </string>
+    <string name="q0311_b001">關閉</string>
+
+</resources>

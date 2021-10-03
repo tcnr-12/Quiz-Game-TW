@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="q0301_t001">顯示分數</string>
+    <string name="q0301_t002">當題加成</string>
+    <string name="q0301_t003">當題得分</string>
+    <string name="q0301_t004">顯示題目</string>
+
+    <string name="q0301_t006"> Hits</string>
+    <string name="q0301_t007">答題正確</string>
+    <string name="q0301_t008">答題失敗</string>
+    <string name="q0301_t009">Life</string>
+    <string name="q0301_b001">選項A</string>
+    <string name="q0301_b002">選項B</string>
+    <string name="q0301_b003">選項C</string>
+    <string name="q0301_b004">選項D</string>
+    <string name="q0301_title">請稍後</string>
+
+    <string name="q0301_message">載入中...</string>
+    <string name="q0301_positive">結束遊戲</string>
+    <string name="q0301_negative">重新開始</string>
+    <string name="q0301_neutral">儲存分數</string>
+
+    <string name="q0301_finish1">遊戲結束</string>
+    <string name="q0301_finish2">遊戲結束</string>
+    <string name="q0301_t010">遊戲結束</string>
+</resources>

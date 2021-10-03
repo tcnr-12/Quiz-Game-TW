@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/q0300_m_back"
+        android:icon="@android:drawable/ic_delete"
+        android:title="@string/q0312_b001"
+        app:showAsAction="always" />
+</menu>

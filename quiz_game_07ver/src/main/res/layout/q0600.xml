@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:orientation="vertical"
+    android:padding="@dimen/p010"
+    tools:context=".Q0600">
+
+    <TableRow
+        android:id="@+id/q0600_tab03"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/p010"
+        android:gravity="center_horizontal|end"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/q0600_t003"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal|end"
+            android:textColor="@color/second_title_text"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/q0600_t004"
+            android:layout_width="@dimen/p070"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal|end"
+            android:textColor="@color/second_title_text"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <ImageButton
+            android:id="@+id/q0600_img002"
+            android:layout_width="@dimen/p030"
+            android:layout_height="@dimen/p030"
+            android:background="@drawable/icon_delete"
+            tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck" />
+
+        <ImageButton
+            android:id="@+id/q0600_img003"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="@android:drawable/ic_menu_edit"
+            tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck" />
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/q0600_tab02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/q0600_t002"
+            android:layout_width="@dimen/p070"
+            android:layout_height="match_parent"
+            android:layout_marginRight="@dimen/p005"
+            android:background="@drawable/shape_view"
+            android:gravity="center"
+            android:textColor="@color/second_title_text"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/q0600_b001"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/shape_view_b"
+            android:gravity="center|left"
+            android:padding="@dimen/p010"
+            android:textColor="@color/test_color"
+            android:textSize="18sp"
+            tools:ignore="SpeakableTextPresentCheck" />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/q0600_tab01"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/p050"
+        android:gravity="center|start">
+
+        <TextView
+            android:id="@+id/q0600_t001"
+            android:layout_width="@dimen/p070"
+            android:layout_height="match_parent"
+            android:layout_marginRight="@dimen/p005"
+            android:background="@drawable/shape_view"
+            android:gravity="center"
+            android:text="@string/q0600_t001"
+            android:textColor="@color/test_color"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <Spinner
+            android:id="@+id/q0600_s001"
+            style="@android:style/Widget.Spinner"
+            android:layout_width="@dimen/p250"
+            android:layout_height="match_parent"
+            android:entries="@array/q0600_a001"
+            android:gravity="center"
+            android:popupElevation="@dimen/p020"
+            android:scrollbarSize="@dimen/sp18"
+            android:scrollbarStyle="insideOverlay"
+            android:spinnerMode="dialog"
+            android:textAlignment="center" />
+
+        <Button
+            android:id="@+id/q0600_b003"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/btn_default"
+            android:text="@string/q0600_b003"
+            android:textStyle="bold"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+    </TableRow>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/q0600_tab01"
+        android:layout_marginTop="@dimen/p010"
+        tools:ignore="SpeakableTextPresentCheck">
+
+        <LinearLayout
+            android:id="@+id/q0600_lay01"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/q0600_b002"
+        android:layout_width="@dimen/p070"
+        android:layout_height="@dimen/p070"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="@dimen/p010"
+        android:layout_marginBottom="@dimen/p010"
+        android:background="@drawable/icon_add"
+        android:textColor="@color/test_color"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+</RelativeLayout>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Work Area/android-work/Quiz-game/quiz_game_07ver/src/main/res/layout/q0100.xml" value="0.225" />
+        <entry key="..\:/Work Area/android-work/Quiz-game/quiz_game_07ver/src/main/res/layout/q0101.xml" value="0.225" />
+        <entry key="..\:/Work Area/android-work/Quiz-game/quiz_game_07ver/src/main/res/layout/q0200.xml" value="0.225" />
+        <entry key="..\:/Work Area/android-work/Quiz-game/quiz_game_07ver/src/main/res/layout/q0500.xml" value="0.225" />
+        <entry key="..\:/Work Area/android-work/Quiz-game/quiz_game_07ver/src/main/res/layout/q0600.xml" value="0.225" />
+        <entry key="..\:/Work Area/android-work/Quiz-game/quiz_game_07ver/src/main/res/menu/q0600_main.xml" value="0.225" />
+        <entry key="..\:/work-place/android-work/Quiz-game/1507a_Google_Login/src/main/res/layout/m1500.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/forum_01ver/src/main/res/layout/f0100.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/forum_01ver/src/main/res/layout/q0200.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/forum_01ver/src/main/res/layout/q0600.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/forum_01ver/src/main/res/layout/q0601.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/forum_01ver/src/main/res/layout/q0602.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/forum_01ver/src/main/res/menu/main.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/google_map_test/src/main/res/layout/weather.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/google_map_test/src/main/res/menu/main.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/myapplication/src/main/res/layout/activity_main.xml" value="0.18697916666666667" />
+        <entry key="..\:/work-place/android-work/Quiz-game/opendata-scenicspot/src/main/res/layout/cell_post.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/opendata-scenicspot/src/main/res/layout/m2207.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/opendata-scenicspot/src/main/res/layout/q0401a.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/opendata-scenicspot/src/main/res/layout/q0401a_cell_post.xml" value="0.4" />
+        <entry key="..\:/work-place/android-work/Quiz-game/opendata-scenicspot/src/main/res/menu/main.xml" value="0.1" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/drawable/ic_launcher_01_background.xml" value="0.22552083333333334" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/layout/q0100.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/layout/q0101.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/layout/q0200.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/layout/q0300.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/layout/q0301.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/layout/q0302.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/layout/q0305.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/layout/q0306.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/layout/q0400.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/layout/q0401a.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/layout/q0402.xml" value="0.1" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/layout/q0403.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/layout/q0500.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/layout/q0501_c001.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/layout/q0501_cell_post.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/layout/q0501main.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/layout/q0511.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/layout/q0600.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/layout/q0601.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/layout/q0602.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/layout/recyclerview_item.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/menu/back.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/menu/q0300.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/menu/q0400_menu.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/menu/q0400_music_menu.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/menu/q0403main.xml" value="0.1" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/menu/q0500.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/menu/q0501_menu_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/menu/q0511_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/mipmap-anydpi-v26/ic_launcher_01.xml" value="0.22552083333333334" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/mipmap-anydpi-v26/ic_launcher_01_round.xml" value="0.22552083333333334" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_02ver/src/main/res/mipmap-anydpi-v26/ic_launcher_1.xml" value="0.22552083333333334" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_03ver/src/main/res/layout/q0100.xml" value="0.264" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_03ver/src/main/res/layout/q0401_cell_post.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_03ver/src/main/res/layout/q0401a.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_03ver/src/main/res/layout/q0500.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_03ver/src/main/res/layout/q0501_c001.xml" value="0.264" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_03ver/src/main/res/layout/q0501_cell_post.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_03ver/src/main/res/layout/q0501main.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_03ver/src/main/res/layout/q0511.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_03ver/src/main/res/layout/q0600.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_03ver/src/main/res/layout/q0601.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_03ver/src/main/res/layout/q0602.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_03ver/src/main/res/menu/q0400_music_menu.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_03ver/src/main/res/menu/q0600_cancel.xml" value="0.264" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_03ver/src/main/res/menu/q0600_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_03ver/src/main/res/menu/q0601_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_03ver/src/main/res/menu/q0602_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/layout/q0100.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/layout/q0101.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/layout/q0200.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/layout/q0300.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/layout/q0301.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/layout/q0302.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/layout/q0303.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/layout/q0304.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/layout/q0305.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/layout/q0306.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/layout/q0403.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/layout/q0421.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/layout/q0421_cell_post.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/layout/q0501_c001.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/layout/q0501_c002_list.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/layout/q0501_cell_post.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/layout/q0501main.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/layout/q0513.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/layout/q0513_list_item.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/layout/q0600.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/layout/q0601.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/layout/q0602.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/menu/q0100.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/menu/q0400_music_menu.xml" value="0.1" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/menu/q0403main.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/menu/q0421main.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/menu/q0500.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/menu/q0513.xml" value="0.1" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/menu/q0600_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_04ver/src/main/res/menu/q0602_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_05ver/src/main/res/layout/q0200.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_05ver/src/main/res/layout/q0400.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_05ver/src/main/res/layout/q0401sql_layout_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_05ver/src/main/res/layout/q0600.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_05ver/src/main/res/menu/q0100.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_05ver/src/main/res/menu/q0600_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_05ver/src/main/res/menu/q0602_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/drawable/shape_view.xml" value="0.22552083333333334" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/drawable/shape_view_b.xml" value="0.22552083333333334" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0100.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0101.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0200.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0300.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0301.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0302.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0303.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0304.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0305.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0306.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0307.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0311.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0312.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0321.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0322.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0323.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0400.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0401.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0401a.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0411.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0412.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0413.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0414.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0422.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0500.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0500_map.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0511.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0512.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0513.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0600.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0601.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/layout/q0602.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/menu/back.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/menu/q0100.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/menu/q0501_menu_main.xml" value="0.264" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/menu/q0600_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_06ver/src/main/res/menu/q0602_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_a05ver/src/main/res/layout/q0100.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_a05ver/src/main/res/layout/q0200.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_a05ver/src/main/res/layout/q0400.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_a05ver/src/main/res/layout/q0401a.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_a05ver/src/main/res/layout/q0511_cell_post.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_a05ver/src/main/res/layout/q0512.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_a05ver/src/main/res/layout/q0512_cell_post.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_a05ver/src/main/res/layout/q0600.xml" value="0.2" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_a05ver/src/main/res/layout/q0601.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_a05ver/src/main/res/menu/q0411.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_a05ver/src/main/res/menu/q0422_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_a05ver/src/main/res/menu/q0600_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/quiz_game_a05ver/src/main/res/menu/q0602_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/test_view/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/work-place/android-work/Quiz-game/weather_api/src/main/res/layout/w_api.xml" value="0.20520833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

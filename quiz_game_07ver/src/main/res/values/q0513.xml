@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="q0513_t001">資料表清單</string>
+    <string name="q0513_m_add">新增</string>
+    <string name="q0513_m_query">查詢</string>
+    <string name="q0513_m_update">編輯刪除</string>
+    <string name="q0513_m_delete">刪除</string>
+    <string name="q0513_btnadd">新增</string>
+    <string name="q0513_btnquery">查詢</string>
+    <string name="q0513_btnlist">清單</string>
+    <string name="q0513_btndel">刪除</string>
+    <string name="q0513_btnupdate">更新</string>
+    <string name="q0513_tv001">餐廳：</string>
+    <string name="q0513_tv002">食材：</string>
+    <string name="q0513_tv003">備註：</string>
+    <string name="q0513_count_t">共計:</string>
+    <string name="q0513_btIdnext">下一筆</string>
+    <string name="q0513_btIdPrev">上一筆</string>
+    <string name="q0513_tvIdTitle">資料內容</string>
+    <string name="q0513_btIdtop">首筆</string>
+    <string name="q0513_btIdend">尾筆</string>
+    <string name="q0513_m_batch">批次新增</string>
+    <string name="q0513_m_clear">清空資料</string>
+    <string name="q0513_txtid">ID   :</string>
+    <string name="q0513_m_list">列表清單</string>
+
+    <string name="q0513_m_spinner">下拉選單</string>
+    <string name="q0513_prompt_select_name">請選擇好友</string>
+    <string name="q0513_btnabandon">取消</string>
+    <string name="q0513_query_ans">查詢結果</string>
+    <string name="q0513_btidcancel">結束列表</string>
+    <string name="q0513_btnreport">列表</string>
+
+    <string name="q0513_m_mysql">匯入MySQL</string>
+    <string name="q0513_m_test">測試</string>
+    <string name="q0513_btn_test">讀取MySQL資料</string>
+    <string name="q0513_hint">*</string>
+    <string name="q0513_pic">圖片</string>
+    <string name="q0513_now_time">更新:</string>
+    <string name="q0513_m_return">返回編輯</string>
+    <string name="q0513_servermsg">伺服機狀態:</string>
+
+    <string name="q0513_m_edit_start">開啟編輯</string>
+    <string name="q0513_m_edit_stop">關閉編輯</string>
+    <string name="q0513_edit_on">瀏覽中...</string>
+</resources>

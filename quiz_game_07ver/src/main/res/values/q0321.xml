@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--Big Size Button -->
+    <string name="q0321_b001">心情板</string>
+    <string name="q0321_b002">遊戲板</string>
+    <string name="q0321_b003">題庫回饋</string>
+<!--In Put Button-->
+    <string name="q0321_b004">留言</string>
+    <string name="q0321_e001">請輸入文字:</string>
+<!--    Question bank feedback-->
+    <string name="q0323_b001">提交</string>
+    <string name="q0323_t001">題目</string>
+    <string name="q0323_t002">答案</string>
+    <string name="q0323_t003">A</string>
+    <string name="q0323_t004">B</string>
+    <string name="q0323_t005">C</string>
+    <string name="q0323_t006">D</string>
+    <string name="q0323_e001">請輸入題目:</string>
+    <string name="q0323_e002">請輸入答案:</string>
+<!--    Data Base Text View-->
+    <string name="tmood0001">111111111111111111</string>
+    <string name="tmood0002">2222222222222222222222</string>
+    <!--    Data Base Text View-->
+    <string name="tgame0001">66666666666666666666</string>
+    <string name="tgame0002">2222222222222222222222</string>
+</resources>

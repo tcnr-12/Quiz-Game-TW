@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt_select_location">請選擇地點</string>
+    <string name="prompt_select_map_type">請選擇地圖模式</string>
+    <string name="item01">切換圖示</string>
+    <string name="showlocid">顯示目前位置</string>
+    <string name="msg">訊息</string>
+    <string name="item02">清除標記</string>
+    <string name="map_not_ready">Map 設置未完成</string>
+
+    <!--    Menu Item-->
+    <string name="q0500_it003">薇如-農場旅遊</string>
+    <string name="q0501_t999">農場旅遊</string>
+    <string name="q0500_ti004">苡溱-農產伴手禮</string>
+    <string name="q0500_ti005">苡溱-產銷食材餐廳筆記</string>
+</resources>

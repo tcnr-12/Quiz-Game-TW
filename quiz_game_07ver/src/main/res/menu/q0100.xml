@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/q0100_m001"
+        android:orderInCategory="100"
+        android:title="@string/q0100_m001" />
+    <item
+        android:id="@+id/q0100_m002"
+        android:orderInCategory="110"
+        android:title="@string/q0100_m002" />
+    <item
+        android:id="@+id/q0100_action_settings"
+        android:orderInCategory="999"
+        android:title="@string/action_finish" />
+</menu>

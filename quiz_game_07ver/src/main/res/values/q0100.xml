@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    開機動畫-->
+    <string name="q0101_t001">點擊螢幕\n進入首頁</string>
+
+<!--首頁-->
+    <!--    ImageButton-->
+    <string name="q0100_b001">首頁</string>
+    <string name="q0100_b002">台灣農產知識庫</string>
+    <string name="q0100_b003">快問快答</string>
+    <string name="q0100_b004">地圖探索</string>
+    <string name="q0100_b005">會員登入</string>
+    <string name="q0100_b006">討論區</string>
+    <!--    報告用-->
+<!--    <string name="q0100_b001">郁文-首頁</string>-->
+<!--    <string name="q0100_b002">子瑀-台灣農產知識庫</string>-->
+<!--    <string name="q0100_b003">育誠-快問快答</string>-->
+<!--    <string name="q0100_b004">薇如-地圖探索</string>-->
+<!--    <string name="q0100_b005">郁文-會員登入</string>-->
+<!--    <string name="q0100_b006">郁文-討論區</string>-->
+    <!--TextView-->
+    <string name="q0100_t001">公告</string>
+    <string name="q0100_t002">2021/06/02:更新內容</string>
+    <!--天氣API-->
+    <string name="q0100_btn_getweather">取得當地天氣狀態</string>
+    <string name="q0100_country">"地區："</string>
+    <string name="q0100_Temperature">體感溫度：</string>
+    <string name="q0100_Temperature_Min">最低溫度(Min)：</string>
+    <string name="q0100_Temperature_Max">最高溫度(Max)：</string>
+    <string name="q0100_Humidity">"濕度："</string>
+    <string name="q0100_Pressure">"氣壓："</string>
+    <string name="q0100_areaname">英文地名：</string>
+    <string name="q0100_w_description">描述：</string>
+    <string name="q0100_w_icon">圖示網址：</string>
+    <string name="q0100_img_des">天氣圖片</string>
+    <string name="q0100_showpic">網路圖片：</string>
+    <string name="q0100_weather_lon">緯度：</string>
+    <string name="q0100_weather_lat">經度：</string>
+    <string name="q0100_dialog_msg1">連線中</string>
+
+<!--    Menu-->
+    <string name="q0100_m001">會員頁面</string>
+    <string name="q0100_m002">關於我們</string>
+
+<!--    AlertDialog-->
+    <string name="q0100_menu_about">關於這個程式</string>
+    <string name="q0100_menu_message">我們在2021年9月，設計這個APP，希望大家會喜歡!</string>
+    <string name="q0100_menu_ok">確定</string>
+    <string name="q0100_dialog_title">訊息</string>
+    <string name="q0100_dialog_message">請登入會員。</string>
+    <string name="q0100_dialog_ok">確定</string>
+</resources>

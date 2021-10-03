@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="q0401a_dialog_title">花蓮區農業改良場育成品種</string>
+    <string name="q0401a_dialog_b001">下載數據資料</string>
+    <string name="q0401a_dialog_t001">啟動:</string>
+    <string name="q0401a_dialog_positive">是</string>
+    <string name="q0401a_dialog_negative">否</string>
+    <string name="q0401a_dialog_neutral">取消</string>
+</resources>

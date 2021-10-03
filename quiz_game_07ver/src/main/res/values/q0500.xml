@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="q0500_new01">產銷食材哪裡吃</string>
+    <string name="q0500_new02">農場旅遊</string>
+    <string name="q0500_new03">休閒農業區資訊</string>
+    <string name="q0500_new04">農產伴手禮</string>
+    <string name="q0500_new05">建置中</string>
+    <string name="q0500_new06">建置中</string>
+<!--報告用-->
+<!--    <string name="q0500_new01">薇如-探索菜園</string>-->
+<!--    <string name="q0500_new02">薇如-農場旅遊</string>-->
+<!--    <string name="q0500_new03">苡溱-休閒農業區資訊</string>-->
+<!--    <string name="q0500_new04">苡溱-農產伴手禮</string>-->
+<!--    <string name="q0500_new05">苡溱-產銷食材哪裡吃</string>-->
+<!--    <string name="q0500_new06">建置中</string>-->
+</resources>

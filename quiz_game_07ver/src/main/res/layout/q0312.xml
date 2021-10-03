@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/turquoise_green"
+    android:padding="@dimen/p010">
+
+    <Spinner
+        android:id="@+id/q0312_s001"
+        android:layout_width="@dimen/p150"
+        android:layout_height="@dimen/p050"
+        android:background="@color/white"
+        android:entries="@array/q0312_a001"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/q0312_s001"
+        android:layout_marginTop="@dimen/p020">
+
+        <TextView
+            android:id="@+id/q0312_t001"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:gravity="center"
+            android:text="@string/q0312_t001"
+            android:textSize="@dimen/sp18" />
+
+        <TextView
+            android:id="@+id/q0312_t002"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center|left"
+            android:text="@string/q0312_t002"
+            android:textSize="@dimen/sp18" />
+
+        <TextView
+            android:id="@+id/q0312_t003"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/q0312_t003"
+            android:textSize="@dimen/sp18" />
+    </TableRow>
+
+    <ListView
+        android:id="@+id/q0312_lv001"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/p400"
+        android:layout_below="@+id/q0312_s001"
+
+        android:layout_marginTop="@dimen/p050"
+        android:background="@color/azure"
+        android:textColor="@color/Yellow"
+        android:textSize="@dimen/sp18" />
+
+
+    <TextView
+        android:id="@+id/q0312_t004"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/p100"
+        android:layout_below="@+id/q0312_lv001"
+        android:layout_marginTop="@dimen/p020"
+        android:background="@color/yellow_softness"
+        android:text="@string/q0312_t004"
+        android:textColor="@color/black"
+        android:textSize="@dimen/sp18" />
+
+    <Button
+        android:id="@+id/q0312_b001"
+        android:layout_width="@dimen/p100"
+        android:layout_height="@dimen/p050"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="@dimen/p000"
+        android:background="@color/green_softness"
+        android:text="@string/q0312_b001"
+        android:textColor="@color/black"
+        android:textSize="@dimen/sp18" />
+</RelativeLayout>

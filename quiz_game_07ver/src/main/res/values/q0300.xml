@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="q0300_t001">快問快答</string>
+    <string name="q0300_b001">初級</string>
+    <string name="q0300_b002">中級</string>
+    <string name="q0300_b003">高級</string>
+    <string name="q0300_b005">遊玩方法</string>
+    <string name="q0300_b006">排行榜</string>
+    <string name="q0300_b007">登入</string>
+    <string name="q0300_b004">開始遊戲</string>
+    <string name="q0300_myname">5號張育誠</string>
+
+</resources>

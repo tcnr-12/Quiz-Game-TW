@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="q0303_t001">顯示分數</string>
+    <string name="q0303_t002">X 1.0</string>
+    <string name="q0303_t003">+100</string>
+    <string name="q0303_t004">顯示題目</string>
+    <string name="q0303_b001">選項A</string>
+    <string name="q0303_b002">選項B</string>
+    <string name="q0303_b003">選項C</string>
+    <string name="q0303_b004">選項D</string>
+</resources>

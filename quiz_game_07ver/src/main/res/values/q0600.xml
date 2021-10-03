@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--q0600-->
+    <string-array name="q0600_a001">
+        <item>最新</item>
+        <item>公告</item>
+        <item>問題</item>
+        <item>趣味</item>
+        <item>知識</item>
+        <item>消息</item>
+        <item>推薦</item>
+    </string-array>
+    <string name="q0600_t001">選擇\n分類</string>
+    <string name="q0600_t002">文章</string>
+    <string name="q0600_t003">新增討論</string>
+    <string name="q0600_t004">編輯討論</string>
+    <string name="q0600_b003">搜尋</string>
+
+    <!--q0601-->
+    <string name="q0601_t001">回應</string>
+    <string name="q0601_b001">留言</string>
+    <string name="q0601_e001">請輸入回應：</string>
+
+    <!-- q0602-->
+    <string-array name="q0602_a001">
+        <item>問題</item>
+        <item>趣味</item>
+        <item>知識</item>
+        <item>消息</item>
+        <item>推薦</item>
+    </string-array>
+    <string name="q0602_t001">選擇分類</string>
+    <string name="q0602_t002">標題</string>
+    <string name="q0602_t003">內文</string>
+    <string name="q0602_b001">確定新增</string>
+    <string name="q0602_b002">取消</string>
+    <string name="q0602_e001">\n標題限30字以內\n</string>
+    <string name="q0602_e002">\n\n請輸入內文：\n\n</string>
+
+    <!--    menu-->
+    <string name="q0600_m001">編輯</string>
+    <string name="q0600_m002">取消編輯</string>
+    <string name="q0600_action_back">返回</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/q0600_group1">
+        <item
+            android:id="@+id/q0600_m001"
+            android:orderInCategory="100"
+            android:title="@string/q0600_m001" />
+        <item
+            android:id="@+id/q0600_m003"
+            android:orderInCategory="120"
+            android:title="@string/q0100_m001" />
+        <item
+            android:id="@+id/q0600_action_back"
+            android:icon="@android:drawable/ic_menu_revert"
+            android:orderInCategory="999"
+            android:title="@string/q0600_action_back"
+            app:showAsAction="always" />
+    </group>
+    <group android:id="@+id/q0600_group2">
+        <item
+            android:id="@+id/q0600_m002"
+            android:orderInCategory="110"
+            android:title="@string/q0600_m002"
+            android:visible="true" />
+    </group>
+</menu>

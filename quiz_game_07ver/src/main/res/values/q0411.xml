@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="q0411_b001">基隆</string>
+    <string name="q0411_b002">台北</string>
+    <string name="q0411_b003">新北</string>
+    <string name="q0411_b004">桃園</string>
+    <string name="q0411_b005">新竹</string>
+    <string name="q0411_b006">苗栗</string>
+    <string name="q0411_b007">台中</string>
+    <string name="q0411_b008">彰化</string>
+    <string name="q0411_b009">南投</string>
+    <string name="q0411_b010">雲林</string>
+    <string name="q0411_b011">嘉義</string>
+    <string name="q0411_b012">台南</string>
+    <string name="q0411_b013">高雄</string>
+    <string name="q0411_b014">屏東</string>
+    <string name="q0411_b015">宜蘭</string>
+    <string name="q0411_b016">花蓮</string>
+    <string name="q0411_b017">台東</string>
+
+    <string name="q0411_b018">搜尋全部市場</string>
+    <string name="q0411_b019">搜尋</string>
+    <string name="q0411_b020">市場</string>
+    <string name="q0411_b021">全部市場</string>
+
+    <string name="q0411_a001">請輸入蔬菜水果名稱</string>
+
+    <string name="q0411_t004">台北</string>
+    <string name="q0411_t005">板橋</string>
+    <string name="q0411_t006">三重</string>
+    <string name="q0411_t007">宜蘭</string>
+    <string name="q0411_t008">桃農</string>
+    <string name="q0411_t009">台中</string>
+    <string name="q0411_t010">豐原</string>
+    <string name="q0411_t011">東勢</string>
+    <string name="q0411_t012">南投</string>
+    <string name="q0411_t013">嘉義</string>
+    <string name="q0411_t014">高雄</string>
+    <string name="q0411_t015">鳳山</string>
+    <string name="q0411_t016">台東</string>
+
+    <string name="q0411_t021">溪湖</string>
+    <string name="q0411_t022">永靖</string>
+    <string name="q0411_t023">西螺 </string>
+    <string name="q0411_t024">屏東 </string>
+    <string name="q0411_t025">花蓮 </string>
+    <string name="q0411_t026">彰化 </string>
+    <string name="q0411_t027">台南 </string>
+
+    <string name="q0411_t017">民國</string>
+    <string name="q0411_t018">年</string>
+    <string name="q0411_t019">請選擇日期:</string>
+    <string name="q0411_t020">請選擇日期</string>
+
+    <string name="q0412_t101">春季:</string>
+    <string name="q0412_t102">夏季:</string>
+    <string name="q0412_t103">秋季:</string>
+    <string name="q0412_t104">冬季:</string>
+    <string name="q0412_b001">返回地圖</string>
+
+    <string name="q0412_b002">西瓜</string>
+    <string name="q0412_b003">芒果</string>
+    <string name="q0412_b004">鳳梨</string>
+    <string name="q0412_b005">火龍果</string>
+
+    <string name="q0413_b001">返回地圖</string>
+    <string name="q0413_t001">交易行情</string>
+    <string name="q0413_t002">載入完成</string>
+    <string name="q0413_t003">共計:</string>
+    <string name="q0413_t004">新增一筆備註:</string>
+    <string name="q0413_t005">記錄這筆價格以及任何你所想的:</string>
+    <string name="q0413_t006">確定:</string>
+    <string name="q0413_t007">取消:</string>
+
+    <!--    <string name="q0413_t002">台北第一果菜市場</string>-->
+    <!--    <string name="q0413_t003">台中果菜市場</string>-->
+    <!--    <string name="q0413_t004">高雄市果菜批發市場</string>-->
+    <!--    <string name="q0413_t005">產品</string>-->
+    <!--    <string name="q0413_t006">平均價(元/公斤)</string>-->
+    <!--    <string name="q0413_t007">交易量(公斤)</string>-->
+
+    <string name="q0411_t001">Produce</string>
+    <string name="q0411_t002">Search</string>
+    <string name="q0411_t003">Trade</string>
+
+    <string name="q0414_t001">交易日期:\t</string>
+    <string name="q0414_t002">農產品名稱:\t</string>
+    <string name="q0414_t003">市場名稱:\t</string>
+    <string name="q0414_t004">上價(元/公斤):\t</string>
+    <string name="q0414_t005">中價(元/公斤):\t</string>
+    <string name="q0414_t006">下價(元/公斤):\t</string>
+    <string name="q0414_t007">平均價(元/公斤):\t</string>
+    <string name="q0414_t008">交易量(公斤):\t</string>
+
+    <string name="q0411_m_ans">資料</string>
+    <string name="q0411_m_batch">批次新增</string>
+    <string name="q0411_m_clear">清空資料</string>
+    <string name="q0411_m_altitle">清空所有資料</string>
+    <string name="q0411_m_list">列表清單</string>
+    <string name="q0411_m_editall">資料維護</string>
+
+    <string name="q0411_menu_top">跳到首筆</string>
+    <string name="q0411_menu_end">跳到尾筆</string>
+    <string name="q0411_menu_next">+100</string>
+    <string name="q0411_menu_back">-100</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="q0302_t001">顯示分數</string>
+    <string name="q0302_t002">當題加成</string>
+    <string name="q0302_t003">當題得分</string>
+    <string name="q0302_t004">顯示題目</string>
+    <string name="q0302_b001">選項A</string>
+    <string name="q0302_b002">選項B</string>
+    <string name="q0302_b003">選項C</string>
+    <string name="q0302_b004">選項D</string>
+</resources>

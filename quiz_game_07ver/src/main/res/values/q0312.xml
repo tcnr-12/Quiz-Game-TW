@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="q0312_a001">
+        <item>初級</item>
+        <item>中級</item>
+        <item>高級</item>
+    </string-array>
+
+
+    <string name="q0312_t001">名次</string>
+    <string name="q0312_t002">姓名</string>
+    <string name="q0312_t003">分數</string>
+    <string name="q0312_t004">顯示玩家資訊</string>
+    <string name="q0312_b001">關閉</string>
+    <string name="q0312_s001">選擇排行榜</string>
+    <string name="q0312_lit001">名次</string>
+    <string name="q0312_lit002">玩家:</string>
+    <string name="q0312_lit003">mail:</string>
+    <string name="q0312_lit004">分數:</string>
+</resources>

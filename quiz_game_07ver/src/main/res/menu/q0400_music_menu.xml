@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/q0400_menu_music"
+        android:icon="@android:drawable/ic_lock_idle_alarm"
+        android:title="@string/menu_music">
+        <menu>
+            <item
+                android:id="@+id/q0400_menu_playmusic"
+                android:icon="@android:drawable/ic_media_play"
+                android:title="@string/menu_playmusic" />
+            <item
+                android:id="@+id/menu_stopmusic"
+                android:icon="@android:drawable/ic_media_pause"
+                android:title="@string/q0400_menu_stopmusic" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@android:drawable/ic_menu_revert"
+        android:title="@string/action_settings"
+        android:visible="true"
+        app:showAsAction="always" />
+</menu>

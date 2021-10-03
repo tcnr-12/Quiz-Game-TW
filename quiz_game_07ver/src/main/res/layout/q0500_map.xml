@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    tools:context=".Q0500_map"
+    android:id="@+id/q0500">
+
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Q0500_map"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+    <Spinner
+        android:id="@+id/spnMapType"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="@dimen/p010"
+        android:layout_marginTop="50dp"
+        android:alpha="0.8"
+        android:background="@color/light_yellow"
+        android:popupBackground="@color/Aqua" />
+
+    <Spinner
+        android:id="@+id/spnLocation"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/spnMapType"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="@dimen/p010"
+        android:alpha="0.8"
+        android:background="@color/light_yellow"
+        android:popupBackground="@color/Aqua" />
+
+    <LinearLayout
+        android:id="@+id/Linear_msg"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:orientation="vertical"
+        android:paddingRight="5dp">
+
+        <TextView
+            android:id="@+id/txtOutput"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:alpha="0.6"
+            android:background="#66cccccc"
+            android:padding="3dp"
+            android:text="@string/showlocid"
+            android:textColor="@color/Teal"
+            android:textColorLink="@color/Teal"
+            tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/msg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:alpha="0.6"
+            android:background="#66cccccc"
+            android:text="@string/msg"
+            android:textColor="@color/Teal"
+            android:textColorLink="@color/Teal"/>
+
+    </LinearLayout>
+
+
+</RelativeLayout>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/q0300_rl001"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#B1DDC8"
+    android:padding="@dimen/p010"
+    tools:context=".Q0300">
+
+    <TextView
+        android:id="@+id/q0300_t001"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp"
+        android:gravity="center_horizontal"
+        android:text="@string/q0300_t001"
+        android:textColor="@color/black"
+        android:textSize="@dimen/sp24"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/q0300_objb001"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/q0300_t001"
+        android:layout_marginTop="@dimen/p250"
+        android:background="#EBFAE2"
+        android:text="@string/q0300_b001"
+        android:textSize="@dimen/sp18" />
+
+    <RadioGroup
+        android:id="@+id/q0300_rbg001"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/q0300_t001"
+        android:layout_marginTop="@dimen/p040"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/q0300_rb001"
+            android:layout_width="@dimen/p090"
+            android:layout_height="wrap_content"
+            android:background="@color/blue_softness"
+            android:gravity="center"
+            android:text="@string/q0300_b001"
+            android:textSize="@dimen/sp18"
+            tools:ignore="TouchTargetSizeCheck" />
+
+        <RadioButton
+            android:id="@+id/q0300_rb002"
+            android:layout_width="@dimen/p090"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/p030"
+            android:background="@color/light_yellow"
+            android:gravity="center"
+            android:text="@string/q0300_b002"
+            android:textSize="@dimen/sp18"
+            tools:ignore="TouchTargetSizeCheck" />
+
+        <RadioButton
+            android:id="@+id/q0300_rb003"
+            android:layout_width="@dimen/p090"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/p030"
+            android:background="@color/peach_puff"
+            android:gravity="center"
+            android:text="@string/q0300_b003"
+            android:textSize="@dimen/sp18"
+            tools:ignore="TouchTargetSizeCheck" />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/myname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="@dimen/p000"
+        android:layout_marginBottom="@dimen/p000"
+        android:text="@string/q0300_myname"
+        android:textColor="@color/Maroon"
+        android:textSize="@dimen/sp18"
+        android:visibility="gone" />
+
+</RelativeLayout>

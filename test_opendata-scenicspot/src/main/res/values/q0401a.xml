@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="q0401a_descr">說明:</string>
+    <string name="q0401a_t001">選擇:</string>
+    <string name="q0401a_name">名稱:</string>
+    <string name="q0401a_url">網址:</string>
+    <string name="q0401a_img">圖片</string>
+    <string name="q0401a_opendata">匯入opendata</string>
+    <string name="q0401a_title">請稍等</string>
+    <string name="q0401a_message">執行中...</string>
+    <string name="q0401a_ncount">共計:</string>
+    <string name="q0401a_loading">數據載入中......</string>
+    <string name="q0401a_menu_top">跳到首筆</string>
+    <string name="q0401a_menu_end">跳到尾筆</string>
+    <string name="q0401a_loadover">重新載入完成</string>
+    <string name="q0401a_menu_next">+100</string>
+    <string name="q0401a_menu_back">-100</string>
+    <string name="q0401a_menu_load">下載數據資料</string>
+</resources>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="q0400_imb001">改良品種Improved breed</string>
+    <string name="q0400_imb002">改良品種(花蓮)Improved breed-Hualien</string>
+    <string name="q0400_imb003">農產新聞 Agricultural News</string>
+    <string name="q0400_imb004">品種資料庫Plant List</string>
+    <string name="q0400_imb005">每日農產價格</string>
+    <string name="q0400_imb006">育苗場資訊</string>
+    <string name="q0400_t001">改良品種Improved breed</string>
+    <string name="q0400_t002">改良品種(花蓮)Improved breed-Hualien</string>
+    <string name="q0400_t003">農產新聞 Agricultural News</string>
+    <string name="q0400_t004">品種資料庫Plant List</string>
+    <string name="q0400_t005">每日農產價格</string>
+    <string name="q0400_t006">育苗場資訊</string>
+<!--報告用-->
+<!--    <string name="q0400_imb001">子瑀-改良品種Improved breed</string>-->
+<!--    <string name="q0400_imb002">子瑀-改良品種(花蓮)Improved breed-Hualien</string>-->
+<!--    <string name="q0400_imb003">易霖-農產新聞 Agricultural News</string>-->
+<!--    <string name="q0400_imb004">子瑀-品種資料庫Plant List</string>-->
+<!--    <string name="q0400_imb005">瑞軍-每日農產價格</string>-->
+<!--    <string name="q0400_imb006">易霖-育苗場資訊</string>-->
+<!--    <string name="q0400_t001">子瑀-改良品種Improved breed</string>-->
+<!--    <string name="q0400_t002">子瑀-改良品種(花蓮)Improved breed-Hualien</string>-->
+<!--    <string name="q0400_t003">易霖-農產新聞 Agricultural News</string>-->
+<!--    <string name="q0400_t004">子瑀-品種資料庫Plant List</string>-->
+<!--    <string name="q0400_t005">瑞軍-每日農產價格</string>-->
+<!--    <string name="q0400_t006">易霖-育苗場資訊</string>-->
+
+    <string name="menu_music">背景音樂</string>
+    <string name="menu_playmusic">播放背景音樂</string>
+    <string name="q0400_t000">長按螢幕開啟選單</string>
+    <string name="q0400_menu_about">關於這個程式...</string>
+    <string name="q0400_menu_music">背景音樂</string>
+    <string name="q0400_menu_playmusic">播放背景音樂</string>
+    <string name="q0400_menu_stopmusic">停止播放背景音樂</string>
+    <string name="q0400_menu_message">選單xml範例程式</string>
+    <string name="q0400_menu_ok">確定</string>
+    <string name="loading_data">資料讀取中，請稍後</string>
+
+    <string name="q0401_dialog_title">☆☆農業改良品種☆☆</string>
+    <string name="q0401_dialog_b001">下載數據資料</string>
+    <string name="q0401_dialog_t001">啟動:</string>
+    <string name="q0401_dialog_positive">是</string>
+    <string name="q0401_dialog_negative">否</string>
+    <string name="q0401_dialog_neutral">取消</string>
+
+    <string name="title">名稱:</string>
+    <string name="descr">說明:</string>
+    <string name="link">網址:</string>
+    <string name="q0401_descr">說明:</string>
+    <string name="q0401_t001">選擇:</string>
+    <string name="q0401_name">名稱:</string>
+    <string name="Px">經度:</string>
+    <string name="Py">緯度:</string>
+    <string name="Zipcode">郵遞區號:</string>
+    <string name="Addr">地址:</string>
+    <string name="q0401_img">圖片</string>
+    <string name="q0401_url">網址:</string>
+    <string name="q0401_opendata">匯入opendata</string>
+    <string name="q0401_title">請稍等</string>
+    <string name="q0401_message">執行中...</string>
+    <string name="q0401_ncount">共計:</string>
+    <string name="q0401_loading">數據載入中......</string>
+    <string name="q0401_menu_top">跳到首筆</string>
+    <string name="q0401_menu_end">跳到尾筆</string>
+    <string name="q0401_loadover">重新載入完成</string>
+    <string name="q0401_menu_next">+100</string>
+    <string name="q0401_menu_back">-100</string>
+    <string name="q0401_menu_load">下載數據資料</string>
+    <string name="q0401_b001">前往>>>【行政農委會試驗所】</string>
+
+    <string name="q0401a_dialog_title">花蓮區-農產改良品種</string>
+    <string name="q0401a_dialog_b001">下載數據資料</string>
+    <string name="q0401a_dialog_t001">啟動:</string>
+    <string name="q0401a_dialog_positive">是</string>
+    <string name="q0401a_dialog_negative">否</string>
+    <string name="q0401a_dialog_neutral">取消</string>
+
+    <string name="q0401a_descr">說明:</string>
+    <string name="q0401a_t001">選擇:</string>
+    <string name="q0401a_name">名稱:</string>
+    <string name="q0401a_url">網址:</string>
+    <string name="q0401a_img">圖片</string>
+    <string name="q0401a_opendata">匯入opendata</string>
+    <string name="q0401a_title">請稍等</string>
+    <string name="q0401a_message">執行中...</string>
+    <string name="q0401a_ncount">共計:</string>
+    <string name="q0401a_loading">數據載入中......</string>
+    <string name="q0401a_menu_top">跳到首筆</string>
+    <string name="q0401a_menu_end">跳到尾筆</string>
+    <string name="q0401a_loadover">重新載入完成</string>
+    <string name="q0401a_menu_next">+100</string>
+    <string name="q0401a_menu_back">-100</string>
+    <string name="q0401a_menu_load">下載數據資料</string>
+
+    <string name="q0401sql_t001">資料表清單</string>
+    <string name="q0401sql_m_add">新增</string>
+    <string name="q0401sql_m_query">查詢</string>
+    <string name="q0401sql_m_update">編輯刪除</string>
+    <string name="q0401sql_m_delete">刪除</string>
+    <string name="q0401sql_btnadd">新增</string>
+    <string name="q0401sql_btnquery">查詢</string>
+    <string name="q0401sql_btnlist">清單</string>
+    <string name="q0401sql_btndel">刪除</string>
+    <string name="q0401sql_btnupdate">更新</string>
+    <string name="q0401sql_tv001">姓名：</string>
+    <string name="q0401sql_tv002">群組：</string>
+    <string name="q0401sql_tv003">地址：</string>
+    <string name="q0401sql_count_t">共計:</string>
+    <string name="q0401sql_btIdnext">下一筆</string>
+    <string name="q0401sql_btIdPrev">上一筆</string>
+    <string name="q0401sql_tvIdTitle">資料內容</string>
+    <string name="q0401sql_btIdtop">首筆</string>
+    <string name="q0401sql_btIdend">尾筆</string>
+    <string name="q0401sql_m_batch">批次新增</string>
+    <string name="q0401sql_m_clear">清空資料</string>
+    <string name="q0401sql_txtid">ID   :</string>
+    <string name="q0401sql_m_list">列表清單</string>
+    <string name="q0401sql_now_time">更新:</string>
+    <string name="q0401sql_m_return">返回編輯</string>
+    <string name="q0401sql_servermsg">伺服機狀態:</string>
+
+    <string name="q0401sql_m_spinner">下拉選單</string>
+    <string name="q0401sql_prompt_select_name">請選擇好友</string>
+    <string name="q0401sql_btnabandon">取消執行</string>
+    <string name="q0401sql_query_ans">查詢結果</string>
+    <string name="q0401sql_btidcancel">結束列表</string>
+    <string name="q0401sql_btnreport">列表</string>
+
+    <string name="q0401sql_m_mysql">匯入MySQL</string>
+    <string name="q0401sql_m_test">測試</string>
+    <string name="q0401sql_btn_test">讀取MySQL資料</string>
+    <string name="q0401sql_hint">*</string>
+    <string name="q0401sql_pic">圖片</string>
+
+    <string name="q0401sql_m_edit_start">開啟編輯</string>
+    <string name="q0401sql_m_edit_stop">關閉編輯</string>
+    <string name="q0401sql_edit_on">編輯中...</string>
+
+</resources>

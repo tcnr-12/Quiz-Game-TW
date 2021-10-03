@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/q0501_menu_top"
+        android:orderInCategory="101"
+        android:title="@string/q0501_it001" />
+    <item
+        android:id="@+id/q0501_menu_end"
+        android:orderInCategory="102"
+        android:title="@string/q0501_it002" />
+
+    <item
+        android:id="@+id/q0501_menu_back"
+        android:icon="@android:drawable/ic_media_previous"
+        android:title="@string/q0501_it003"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/q0501_menu_next"
+        android:icon="@android:drawable/ic_media_next"
+        android:title="@string/q0501_it004"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/q0501_menu_load"
+        android:orderInCategory="103"
+        android:title="@string/q0501_it005" />
+
+    <item
+        android:id="@+id/q0501_menu_r001"
+        android:orderInCategory="104"
+        android:title="@string/q0501_t901" />
+    <item
+        android:id="@+id/q0501_menu_u001"
+        android:orderInCategory="105"
+        android:title="@string/q0501_t903" />
+    <item
+        android:id="@+id/q0501_menu_log01"
+        android:icon="@drawable/googleg_color"
+        android:title="@string/q0501_menu_log01"
+        app:actionViewClass="android.widget.SearchView" />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="999"
+        android:title="@string/action_settings" />
+</menu>
