@@ -1,11 +1,2 @@
 rootProject.name = "Quiz-game"
-include ':quiz_game_02ver'
-include ':quiz_game_03ver'
-include ':quiz_game_04ver'
-include ':quiz_game_05ver'
-include ':quiz_game_a05ver'
-include ':quiz_game_06ver'
 include ':quiz_game_07ver'
-include ':test_google_map'
-include ':test_weather_api'
-
